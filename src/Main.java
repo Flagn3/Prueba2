@@ -13,9 +13,18 @@ public class Main {
         lista.add(111);
         lista.add(11);
         lista.add(12);
-        lista.add(13);
-        lista.add(14);
-        lista.add(15);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+        lista.add(12);
+
 
 
         System.out.println(lista.toString());
